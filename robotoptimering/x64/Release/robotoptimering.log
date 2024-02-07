@@ -1,0 +1,12 @@
+﻿  robotoptimering.cpp
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\template.h(22,1): warning C4005: 'assert': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h(29,1): message : see previous definition of 'assert'
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\programs\Program.h(62,3): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\robotoptimering.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\robotoptimering.cpp(69,5): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  4 of 563 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  robotoptimering.vcxproj -> C:\Users\Matis\source\repos\robotoptimering\x64\Release\robotoptimering.exe

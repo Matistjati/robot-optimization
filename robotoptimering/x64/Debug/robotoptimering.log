@@ -1,0 +1,11 @@
+﻿  robotoptimering.cpp
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\template.h(22,1): warning C4005: 'assert': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h(42,1): message : see previous definition of 'assert'
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\programs\Program.h(62,3): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\robotoptimering.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\robotoptimering.cpp(71,5): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\Position.h(29): warning C4715: 'fromChar': not all control paths return a value
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\programs\Program.h(45): warning C4715: 'Program::findmain': not all control paths return a value
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\Position.h(47): warning C4715: 'rotateleft': not all control paths return a value
+C:\Users\Matis\source\repos\robotoptimering\robotoptimering\Position.h(65): warning C4715: 'rotateright': not all control paths return a value
+  robotoptimering.vcxproj -> C:\Users\Matis\source\repos\robotoptimering\x64\Debug\robotoptimering.exe
